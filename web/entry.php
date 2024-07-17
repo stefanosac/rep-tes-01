@@ -7,6 +7,7 @@ use App01\Rootto; // as Rootto;
 echo 'io sono entry.php su porta ' . $_SERVER['SERVER_PORT'];
 
 $rot = new Rootto();
+/* commento a caso */
 echo $rot->getId();
 /* ho aggiunto un commento */
 /* altro commento */
